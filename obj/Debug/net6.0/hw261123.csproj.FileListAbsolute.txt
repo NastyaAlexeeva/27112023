@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.AssemblyInfo.cs
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\bin\Debug\net6.0\hw261123.exe
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\bin\Debug\net6.0\hw261123.deps.json
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\bin\Debug\net6.0\hw261123.runtimeconfig.json
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\bin\Debug\net6.0\hw261123.dll
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\bin\Debug\net6.0\hw261123.pdb
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.dll
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\refint\hw261123.dll
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.pdb
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\hw261123.genruntimeconfig.cache
+C:\Users\User\Downloads\учеба ИНЖЕНЕР ПРОГРАММИСТ\домашка\hw261123\obj\Debug\net6.0\ref\hw261123.dll
